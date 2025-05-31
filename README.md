@@ -23,3 +23,4 @@ Delivered actionable insights for management to drive productivity, training, an
 💡 Key Skills: Data Visualization, Sales Analytics, Executive Performance Tracking, Dashboard Design, Excel Automation
 
 SCREENSHOT/DEMO
+https://github.com/omdeshmukh982/Sales-Performance-Dashboard/blob/main/Sales_Dashboard.png
